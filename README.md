@@ -1,2 +1,2 @@
 # fizzbuzz
-first exercise following along with the odin project
+first exercise of JavaScript following along with the odin project
